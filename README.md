@@ -1,6 +1,12 @@
-
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+My+JD+BOT+codded+by+Master+Albin..."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="JD" src="https://img.shields.io/badge/Master-Boy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
